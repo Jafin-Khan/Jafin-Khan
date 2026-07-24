@@ -46,7 +46,7 @@ Developed an end-to-end MRI analysis system with a FastAPI backend and web inter
 
 ## Selected Projects
 
-- Drug-Target Interaction Prediction
+- - [Drug-Target Interaction Prediction](https://github.com/Jafin-Khan/drug-target-interaction-prediction)
 - Alzheimer's MRI Analysis System
 - Machine Learning Algorithms
 - Data Analysis and Visualization
