@@ -44,7 +44,7 @@ Developed an end-to-end MRI analysis system with a FastAPI backend and web inter
 - Jupyter Notebook
 - HPC Cluster Environments
 
-## Selected Projects
+## Projects
 
 - - [Drug-Target Interaction Prediction](https://github.com/Jafin-Khan/drug-target-interaction-prediction)
 - Alzheimer's MRI Analysis System
