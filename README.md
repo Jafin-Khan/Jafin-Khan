@@ -11,7 +11,7 @@ Computer Science graduate from Prairie View A&M University with interests in Mac
 - Data Science
 - Artificial Intelligence for Healthcare
 
-## Current Research
+## Research Experience
 
 ### Drug-Target Interaction Prediction
 Conducted research on machine learning methods for predicting drug-target interactions using benchmark biological datasets. Worked on data preprocessing, binary labeling, feature engineering, baseline model development, and performance evaluation.
