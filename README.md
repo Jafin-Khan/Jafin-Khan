@@ -6,7 +6,6 @@ Computer Science graduate from Prairie View A&M University with interests in Mac
 
 - Machine Learning
 - High-Performance Computing
-- Scientific Computing
 - Computational Biology
 - Data Science
 - Artificial Intelligence for Healthcare
@@ -32,7 +31,6 @@ Developed an end-to-end MRI analysis system with a FastAPI backend and web inter
 - NumPy
 - Pandas
 - Matplotlib
-- OpenCV
 - RDKit
 - PCA
 - HOG Feature Extraction
@@ -44,7 +42,6 @@ Developed an end-to-end MRI analysis system with a FastAPI backend and web inter
 - Uvicorn
 - Visual Studio Code
 - Jupyter Notebook
-- Slurm
 - HPC Cluster Environments
 
 ## Selected Projects
