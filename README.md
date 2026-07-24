@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Jafin Khan
 
-<!--
-**Jafin-Khan/Jafin-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Prairie View A&M University with interests in Machine Learning, High-Performance Computing, data science, and AI applications in computational biology.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning
+- High-Performance Computing
+- Scientific Computing
+- Computational Biology
+- Data Science
+- Artificial Intelligence for Healthcare
+
+## Current Research
+
+### Drug-Target Interaction Prediction
+Conducted research on machine learning methods for predicting drug-target interactions using benchmark biological datasets. Worked on data preprocessing, binary labeling, feature engineering, baseline model development, and performance evaluation.
+
+### Alzheimer's MRI Analysis
+Developed an end-to-end MRI analysis system with a FastAPI backend and web interface. Implemented image preprocessing, machine learning inference, confidence visualization, and adjustable probability thresholds.
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- C++
+- Java
+- SQL
+
+### Machine Learning and Data Science
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
+- RDKit
+- PCA
+- HOG Feature Extraction
+
+### Software and Research Tools
+- Linux
+- Git and GitHub
+- FastAPI
+- Uvicorn
+- Visual Studio Code
+- Jupyter Notebook
+- Slurm
+- HPC Cluster Environments
+
+## Selected Projects
+
+- Drug-Target Interaction Prediction
+- Alzheimer's MRI Analysis System
+- Machine Learning Algorithms
+- Data Analysis and Visualization
+- C++ Algorithms and Data Structures
+
+## Currently Learning
+
+- Parallel Programming
+- MPI
+- OpenMP
+- GPU Computing
+- Distributed Machine Learning
+- Scientific Computing Workflows
+
+## Education
+
+**Bachelor of Science in Computer Science**  
+Prairie View A&M University
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/jafin-khan-188a12250/
+- Email: jafinkhan.11@gmail.com
